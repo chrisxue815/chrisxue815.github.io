@@ -1,0 +1,3 @@
+[submodule "steam-auth-code"]
+	path = steam-auth-code
+	url = https://github.com/chrisxue815/steam-auth-code.git
