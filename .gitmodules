@@ -1,3 +1,6 @@
 [submodule "steam-auth-code"]
 	path = steam-auth-code
 	url = https://github.com/chrisxue815/steam-auth-code.git
+[submodule "realworld"]
+	path = realworld
+	url = https://github.com/chrisxue815/angularjs-realworld-example-app.git
