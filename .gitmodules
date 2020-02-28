@@ -4,3 +4,6 @@
 [submodule "realworld"]
 	path = realworld
 	url = https://github.com/chrisxue815/angularjs-realworld-example-app.git
+[submodule "canada-visa-processing-time"]
+	path = canada-visa-processing-time
+	url = https://github.com/chrisxue815/canada-visa-processing-time.git
