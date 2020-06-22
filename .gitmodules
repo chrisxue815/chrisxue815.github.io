@@ -7,3 +7,6 @@
 [submodule "canada-visa-processing-time"]
 	path = canada-visa-processing-time
 	url = https://github.com/chrisxue815/canada-visa-processing-time.git
+[submodule "pack"]
+	path = pack
+	url = https://github.com/tianyicui/pack.git
